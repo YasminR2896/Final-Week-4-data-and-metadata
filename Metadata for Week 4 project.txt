@@ -1,0 +1,30 @@
+The file “field info” contains data from an experiment carried out by R Shine and D Dubey from 2008 to 2010. The aim of this experiment was to test the hypothesis that climate change and habitat destruction will affect the population size of the montane lizard population. We also tested the hypothesis that because the montane lizard is an endangered species; genetic diversity will be lower in their associated populations, there will be a significant pattern of isolation by distance due to restricted gene flow, and there will be a risk of inbreeding in populations. We also tested the hypothesis that lizards at higher altitudes of the mountain will be more abundant due to increased temperature than at lower altitudes of the mountain. Experimental units in this study consisted of 241 lizard samples. Lizards were captured using pitfall traps and tail tibs were collected from the lizards and stored in test tubes for DNA extraction and analyses. 
+Person compiling data: Yasmin Roustaei 
+Contact details: yasmin.roustaei@students.mq.edu.au 
+Columns in the file are: 
+Site: Population sites labelled as BH4, BH3, KT1, WF7, MRP1, MH4, XFC1, PNP1, WFL, BH5, NP4, WF5, WF1
+Date: Dates that the data was collected which was from 27/10/08-11/02/10
+Trap North degrees: Direction the trap was place which was expressed as a discrete variable (1-30 degrees Celsius)
+Coordinates: Compass coordinates expressed as a discrete variable
+Species: E. leuraensis
+Sex: Expressed as Male (M) and Female (F) 
+Mass: Mass of the lizard measured in grams and expressed as a continuous variable 
+SVL: Snout-vent length of the lizard from the tip of the snout to the opening of the cloacal slit measured in centimetres and expressed as a continuous variable
+Head length: Measured in centimetres and expressed as a continuous variable 
+Tail length: Measured in centimetres and expressed as a continuous variable 
+Inter limb: Measured in centimetres and expressed as a continuous variable
+Front limb: Measured in centimetres and expressed as a continuous variable
+Rear limb: Measured in centimetres and expressed as a continuous variable
+Belly colour: lizards were painted for identification in colours such as intense yellow, yellow-blue, white, white-yellow
+Ind. Code: Expressed as a discrete variable
+Tube Code: Tubes containing the lizard tail tibs and the tubes are labelled as a discrete variable 
+Subst. degrees Celsius: Temperature recorded during the trapping session and expressed as a continuous variable
+Observation: details where the traps were located such as yabbies hole, top of the swamp, middle of the slope, end of the slope, etc., 
+
+There are missing data expressed as (N/A). Some of the traps did not catch any lizards, hence why there is missing data in the columns for Species, Sex, Mass, SVL, Head length, Tail length, Inter limb, Front limb, Rear limb, Belly colour, Ind. code, Tube code, subst. degrees Celsius, and Observation. There is also missing data such as Shannon’s Information Index (I), observed heterozygosity (Ho), expected heterozygosity (He), unbiased expected heterozygosity (UHe), fixation index (F), and Effective population size. This is the raw data that will be sent off to Diversity Arrays Technology (DArT) for genome profiling which will then be applied to genetic mapping for my Year 2 thesis. Factors such as expected heterozygosity etc., will be obtained after genome profiling. The categorical, manipulated, independent variables are altitude (m) of the mountain whereas the dependent variables are allelic richness, population size, and expected heterozygosity (also missing data in my file). 
+
+
+
+
+
+
